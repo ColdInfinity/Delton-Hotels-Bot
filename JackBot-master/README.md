@@ -1,4 +1,4 @@
-# JackBot v2
+# ColdBot v2
 
 New features implemented, more to come.  
 *Not released*
