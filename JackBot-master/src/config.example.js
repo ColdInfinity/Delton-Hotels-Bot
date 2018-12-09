@@ -1,5 +1,5 @@
 module.exports = {
-    bot_token: '👀 👀',
+    bot_token: 'NTIwNjE5NjExNjI5MTU4NDQ5.Du36Jw.-ZUCniVs51PCtIFmtOuzVujdN7s',
     default_prefix: '-',
     dev_users: ['ID'],
     language_refresh_rate: 5,
