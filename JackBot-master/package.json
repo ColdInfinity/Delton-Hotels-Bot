@@ -1,11 +1,11 @@
 {
-  "name": "jackbot",
+  "name": "Delton Hotels Bot",
   "version": "1.0.0",
   "description": "Best discord bot ever",
   "main": "./src/app.js",
   "scripts": {
     "start": "node .",
-    "pm2_start": "pm2 start ./src/app.js --name jackbot --env production",
+    "pm2_start": "pm2 start ./src/app.js --name Delton Hotels Bot --env production",
     "pm2_restart": "pm2 restart jackbot",
     "pm2_stop": "pm2 delete jackbot",
     "pm2_logs": "pm2 logs jackbot"
